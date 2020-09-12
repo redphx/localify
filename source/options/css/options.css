@@ -1,0 +1,21 @@
+body {
+  padding: 4em;
+}
+
+main {
+  margin-top: 40px;
+}
+
+.disabled-rule {
+  opacity: 0.5;
+}
+
+.help {
+  padding: 10px;
+  margin-top: 40px;
+}
+
+.help code {
+  padding: 10px;
+  display: block;
+}
