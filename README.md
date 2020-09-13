@@ -19,6 +19,9 @@
 3. Create new rule.
 4. Refresh web page containing the original file.
 
+## Demo video
+[![Demo video](https://img.youtube.com/vi/XPJvhUIph9E/hqdefault.jpg)](https://www.youtube.com/watch?v=XPJvhUIph9E)
+
 ## Limitation
 - This extension only works when unpacked. That's why it can't be used in Firefox.
 - Doesn't work with inline scripts.
